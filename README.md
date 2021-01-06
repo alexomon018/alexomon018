@@ -1,11 +1,11 @@
 ### Hi there, I'm Aleksa - aka [alexomon018][website] 👋
 
-[![Website](https://img.shields.io/badge/Website-TakeALook-brightgreen)](https://aleksamitic.com)
+[![Website](https://img.shields.io/badge/Website-TakeALook-brightgreen?style=for-the-badge&logo=appveyor)](https://aleksamitic.com)
 
 ## I'm a Developer, Engineer, and Teacher!!
 
 - 🔭 I just launched my first portfolio : [aleksamitic.com!][website]!
-- 🌱 I’m currently looking for a job and learing everything, especially design 🤣
+- 🌱 I’m currently looking for a job and learning everything, especially design 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more and learn as much as I can
 - ⚡ Fun fact: I love to lift weights and play World Of Tanks
@@ -15,9 +15,9 @@
 If you have any questions or if you want to connect with me, feel free to drop me an email at aleksa.mitic5859@gmail.com
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aleksa Mitic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Aleksa Mitic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aleksa Mitic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
