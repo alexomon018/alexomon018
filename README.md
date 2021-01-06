@@ -1,6 +1,6 @@
 ### Hi there, I'm Aleksa - aka [alexomon018][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aleksamitic.com)
+[![Website](https://img.shields.io/badge/Website-TakeALook-brightgreen)](https://aleksamitic.com)
 
 ## I'm a Developer, Engineer, and Teacher!!
 
@@ -35,11 +35,6 @@ If you have any questions or if you want to connect with me, feel free to drop m
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
