@@ -1,10 +1,9 @@
-### Hi there, I'm Aleksa - aka [alexomon018][website] 👋
+### Hi there, I'm Aleksa - aka [alexomon018] 👋
 
 [![Website](https://img.shields.io/badge/Website-TakeALook-brightgreen?style=for-the-badge&logo=appveyor)](https://aleksamitic.com)
 
 ## I'm a Developer, Engineer, and Teacher!!
 
-- 🔭 I just launched my first portfolio : [aleksamitic.com!][website]!
 - 🔭 I am working on a project that is going to show advanced stats to World of Tanks players !
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more and learn as much as I can
