@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-TakeALook-brightgreen?style=for-the-badge&logo=appveyor)](https://aleksamitic.com)
 
-## I'm a Developer, Engineer, and Teacher!!
+## I'm a Developer at Vega IT
 
 - 🔭 I am working on a project that is going to show advanced stats to World of Tanks players !
 - 👯 I’m looking to collaborate with other content creators
