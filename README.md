@@ -1,48 +1,41 @@
-### Hi there, I'm Aleksa - aka [alexomon018] 👋
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksa-miticw)
+[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4267B2" />](https://www.facebook.com/alexa.mitic)
+[<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" />](https://www.instagram.com/mitic_aleksa)
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" />](https://twitter.com/AleksaMiti1)
+[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&logo=lacoste&logoColor=white&color=ef6c00" />](https://aleksamitic.com)
 
-[![Website](https://img.shields.io/badge/Website-TakeALook-brightgreen?style=for-the-badge&logo=appveyor)](https://aleksamitic.com)
+### Hello, my name is Aleksa 👋
 
-## I'm a Developer at Vega IT
+Welcome to my GitHub profile! 🎉
 
-- 🔭 I am working on a project that is going to show advanced stats to World of Tanks players !
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more and learn as much as I can
-- ⚡ Fun fact: I love to lift weights and play World Of Tanks
+I'm a software engineer with 4+ years of diverse, professional experience. I'm always striving to make things faster, simpler, and more user and developer-friendly.
 
-### Connect with me:
+Frontend development is the most interesting part of my career. I always keen to write well-designed, performant, fully tested code that works across multiple browsers as well responsive on all latest devices. For the past few years, I have been concentrated on React and Redux development but I'm always open to learning new technologies especially if they are related to JavaScript.
 
-If you have any questions or if you want to connect with me, feel free to drop me an email at aleksa.mitic5859@gmail.com
+Some of recent projects I've been working on:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aleksa Mitic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aleksa Mitic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aleksa Mitic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [**Ozavala**](https://www.ozavala.co.rs) - A web application for Youth Cooperative. The application is built with NextJS, Firebase, and Chakra UI. It is hosted on Vercel.
 
-<br />
+I'm currently working as a **Software Engineer** at [Vega IT](https://www.vegait.rs). 👨‍💻
 
-### Languages and Tools:
+If you have any questions or if you want to connect with me, feel free to drop me an email at aleksa.mitic5859@gmail.com.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+![alexomon018' github stats](https://github-readme-stats.vercel.app/api?username=alexomon018&show_icons=true&count_private=true&theme=algolia)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![](https://komarev.com/ghpvc/?username=alexomon018&color=blue&label=Profile%20Views)](https://github.com/alexomon018)
+[![](https://img.shields.io/github/followers/alexomon018?label=GitHub%20Followers)](https://github.com/alexomon018)
 
-  <img align="left" alt="alexomon018's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexomon018&show_icons=true&hide_border=true" />
+<!--
+**alexomon018/alexomon018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-</details>
+Here are some ideas to get you started:
 
-[website]: https://aleksamitic.com
-[youtube]: https://www.youtube.com/channel/UCk8MtvIQMiEdu4TcvPkt9XQ
-[instagram]: https://www.instagram.com/mitic_aleksa/
-[linkedin]: https://www.linkedin.com/in/aleksa-miticw/
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
